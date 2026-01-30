@@ -16,4 +16,4 @@ Fondamentaux de la programmation en Kotlin
 <div align="center"> <img src="image/image1.jpeg" alt="Résultat image 1" width="1000"/> <p><em>Figure 1</em></p> </div>
 <div align="center"> <img src="image/image2.jpeg" alt="Résultat image 2" width="1000"/> <p><em>Figure 2</em></p> </div>
 <div align="center"> <img src="image/image3.jpeg" alt="Résultat image 3" width="1000"/> <p><em>Figure 3</em></p> </div>
-<div align="center"> <img src="image/image4.jpeg" alt="Résultat image 4" width="1000"/> <p><em>Figure 4</em></p> </div>
+
